@@ -20,7 +20,7 @@ Hi there! I'm **Berkan**, a passionate **Software Engineer** specializing in **A
   - **AI/ML Tools:** TensorFlow, PyTorch, Hugging Face, OpenAI APIs  
   - **DevOps & Cloud:** Docker, Kubernetes, Terraform, Azure DevOps, Google Cloud Platform (GCP), AWS Lambda, Cloud Functions, NGINX, Apache  
   - **Data Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Redis, Elasticsearch, DBeaver  
-  - **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis  
+  - **Databases:** MySQL, PostgreSQL, MSSQL, Firebase, SQLite, MongoDB, Redis  
   - **Version Control:** Git, GitHub, GitLab, Bitbucket  
   - **IDEs & Tools:** Visual Studio, Visual Studio Code, IntelliJ IDEA, PyCharm, VirtualBox  
   - **Other Technologies:** Webpack, Entity Framework  
