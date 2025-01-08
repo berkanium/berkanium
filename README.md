@@ -43,9 +43,9 @@ Hi there! I'm **Berkan**, a passionate **Software Engineer** specializing in **A
 
 Find me on these platforms:  
 - 🌍 [Portfolio Website](https://berkanium.net)  
-- 🐦 [Twitter](https://twitter.com/berkanium)  
+- 🐦 [Twitter](https://twitter.com/berkaniumm)  
 - 💼 [LinkedIn](https://linkedin.com/in/berkanium)  
-- 📺 [YouTube](https://youtube.com/@berkanium)  
+- 📺 [YouTube](https://youtube.com/@iberkanium)  
 
 ---
 
