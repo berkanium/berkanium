@@ -14,12 +14,16 @@ Hi there! I'm **Berkan**, a passionate **Software Engineer** specializing in **A
   - **Research:** Always curious, always learning, always innovating  
 
 - 🛠️ **Tech Stack:**  
-  - **Programming:** Python, JavaScript, C++, Java  
-  - **AI/ML:** TensorFlow, PyTorch, Hugging Face, OpenAI APIs  
-  - **Backend:** Node.js, Django, Flask, FastAPI  
-  - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
-  - **DevOps:** Docker, Kubernetes, CI/CD, AWS, GCP  
-  - **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+  - **Programming Languages:** Python, JavaScript, PHP, C++, Java  
+  - **Frontend Frameworks:** ReactJS, VueJS, AngularJS, jQuery, Bootstrap  
+  - **Backend Frameworks:** Node.js, Django, Flask, FastAPI, Laravel, .NET Core, ASP.NET MVC, ASP.NET WebAPI, ASP.NET Core  
+  - **AI/ML Tools:** TensorFlow, PyTorch, Hugging Face, OpenAI APIs  
+  - **DevOps & Cloud:** Docker, Kubernetes, Terraform, Azure DevOps, Google Cloud Platform (GCP), AWS Lambda, Cloud Functions, NGINX, Apache  
+  - **Data Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Redis, Elasticsearch, DBeaver  
+  - **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis  
+  - **Version Control:** Git, GitHub, GitLab, Bitbucket  
+  - **IDEs & Tools:** Visual Studio, Visual Studio Code, IntelliJ IDEA, PyCharm, VirtualBox  
+  - **Other Technologies:** Webpack, Entity Framework  
 
 - 🌱 **Currently Exploring:**  
   - **Generative AI**  
@@ -41,8 +45,10 @@ Find me on these platforms:
 - 🌍 [Portfolio Website](https://berkanium.net)  
 - 🐦 [Twitter](https://twitter.com/berkanium)  
 - 💼 [LinkedIn](https://linkedin.com/in/berkanium)  
-- 📺 [YouTube](https://youtube.com/@iberkanium)   
+- 📺 [YouTube](https://youtube.com/@berkanium)  
+
+---
 
 > *"The future belongs to those who believe in the beauty of their dreams."* ✨  
 
-Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to ⭐️ your favorites!  
+Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to ⭐️ your favorites!
