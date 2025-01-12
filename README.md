@@ -14,8 +14,8 @@ Hi there! I'm **Berkan**, a passionate **Software Engineer** specializing in **A
   - **Research:** Always curious, always learning, always innovating  
 
 - 🛠️ **Tech Stack:**  
-  - **Programming Languages:** Python, JavaScript, PHP, C++, Java  
-  - **Frontend Frameworks:** ReactJS, VueJS, AngularJS, jQuery, Bootstrap  
+  - **Programming Languages:** Python, JavaScript, PHP, C++, Java, C#, C, Ruby, Go, Golang, Flutter, Assembly 
+  - **Frontend Frameworks:** ReactJS, VueJS, AngularJS, Svelte, jQuery, Bootstrap  
   - **Backend Frameworks:** Node.js, Django, Flask, FastAPI, Laravel, .NET Core, ASP.NET MVC, ASP.NET WebAPI, ASP.NET Core  
   - **AI/ML Tools:** TensorFlow, PyTorch, Hugging Face, OpenAI APIs  
   - **DevOps & Cloud:** Docker, Kubernetes, Terraform, Azure DevOps, Google Cloud Platform (GCP), AWS Lambda, Cloud Functions, NGINX, Apache  
