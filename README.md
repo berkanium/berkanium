@@ -30,11 +30,6 @@ Hi there! I'm **Berkan**, a passionate **Software Engineer** specializing in **A
   - **Automating ML Pipelines**  
   - **Advanced NLP Techniques**  
 
----
-
-## 📊 GitHub Stats  
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/berkanium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="berkanium" height="30" width="40" /></a>
