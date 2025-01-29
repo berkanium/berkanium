@@ -52,12 +52,11 @@ Hi there! I'm **Berkan**, a passionate **Software Engineer** specializing in **A
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/berkanium"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berkanium" /></a><a href="https://ko-fi.com/berkanium"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="berkanium" /></a></p><br><br>
-
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkanium&show_icons=true&locale=en&layout=compact" alt="berkanium" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkanium&show_icons=true&locale=en" alt="berkanium" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkanium&" alt="berkanium" /></p>
 ---
 
 > *"The future belongs to those who believe in the beauty of their dreams."* ✨  
